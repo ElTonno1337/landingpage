@@ -15,7 +15,7 @@
 .header {
     display: flex;
     align-items: center;
-    gap: 1000px;
+    gap: 1200px;
     flex: 1;   
     justify-items: space-between;
 }
@@ -59,7 +59,7 @@ button .one {
     display: flex;
     justify-content: center;
     flex: 1;
-    gap: 300px;
+    gap: 150px;
 }
 
 .main {
@@ -159,6 +159,7 @@ button .one {
 }
 
 .quote .quoter {
+    font-size: 20px;
     font-weight: bold;
     margin-top: -16px;
     margin-left: 600px;
@@ -181,7 +182,7 @@ button .one {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 300px;
+    gap: 500px;
 }
 
 
