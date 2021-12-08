@@ -85,8 +85,21 @@ button .one {
 }
 
 .heromain img {
-    padding-top: 72px;
-} 
+    border: 8px solid whitesmoke;
+
+}
+
+.space {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.room {
+    height: 72px;
+    width: 200px;
+
+}
 
 .heromain {
     display: flex;
